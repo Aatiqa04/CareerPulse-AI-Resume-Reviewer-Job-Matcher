@@ -1,0 +1,6 @@
+
+{
+  "name": "CareerPulse AI - Resume & Job Matcher",
+  "description": "An advanced AI-powered career tool that analyzes resumes (PDF/Text) against job descriptions, calculates ATS compatibility, identifies skill gaps, and provides actionable improvements using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
